@@ -6,7 +6,7 @@
 
 fork from [Hitvz](https://github.com/Hitvz)/[iNodeClient](https://github.com/Hitvz/iNodeClient)
 
-上面那个是基于apt包管理器的，也就是说deepin，ubuntu，mint等等都可以直接安装（感谢）
+上面那个是基于apt包管理器的，也就是说deepin，ubuntu，mint等等都可以直接安装（不能保证）
 
 我这个是移植到arch系中，可能有点瑕疵，但是能连接，我这里连接后用命令杀死可以不用挂inode后台(不能直接关闭窗口，得直接杀死后台)
 
