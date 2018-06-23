@@ -20,7 +20,7 @@ sudo pacman -S ncurses5-compat-libs
 **使用办法**
 
 ```shell
-git clone https://github.com/Hitvz/iNodeClient.git
+git clone https://github.com/GreenHatHG/Manjaro_Inode.git
 sudo ./setup.sh
 
 #可添加zsh的alias
